@@ -4,7 +4,7 @@ export PATH
 myfile=/usr/bin/sevpn
 nettools=/usr/bin/netstat
 #全局链接
-gurl="https://github.com/RosallaFie/enweb/raw/master"
+gurl="https://raw.githubusercontent.com/qq2496140885/enweb-master/master"
 rm -rf sevpn
 clear
 
