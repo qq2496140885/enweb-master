@@ -107,6 +107,7 @@ function set64(){
 rm -rf /vpnserver* >/dev/null 2>&1
 cd /
 wget $gurl/softether-vpnserver-v4.25-9656-rtm-2018.01.15-linux-x64-64bit.tar.gz >/dev/null 2>&1
+sleep 5
 tar -zxvf softether-vpnserver-v4.25-9656-rtm-2018.01.15-linux-x64-64bit.tar.gz >/dev/null 2>&1
 rm -rf /softether-vpnserve*
 }
